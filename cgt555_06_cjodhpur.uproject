@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D6EC2F49-4AFF-A625-82F4-58B889C6FF3C}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EpicLeaderboard",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
+		}
+	]
+}
